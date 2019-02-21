@@ -1,4 +1,4 @@
-# Arduino-SmartPlug-Bluetooth-control-
+# Arduino-SmartPlug-Bluetooth-control
 Arduino based smartplug with bluetooth control and timer functionality
 
  Use Serial data to control pin 13 on the Arduino
